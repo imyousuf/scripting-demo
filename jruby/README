@@ -1,0 +1,3 @@
+A simple project reflecting usage of how get started scripting over JVM. Initia-
+lly will use JRuby, Jython, JavaScript (Rhino) and Groovy. Also will have a
+performance module for comparing their performance.
